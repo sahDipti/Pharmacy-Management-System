@@ -1,0 +1,45 @@
+1.Aceclofenac			110	Used to relieve pain and inflammation in osteoarthritis, rheumatoid-arthritis and ankylosing spondylitis
+ACILOC				140	Reduces excess acid made by your stomach
+Amoxicillin			180	Used to treat Bacterial Infection
+Antacids			80	Used to ease indigestion and heartburn
+Antihistamines			100	Used to treat hay fever and allergies
+Antiseptic Cream 		250	Used to treat minor scrapes, cuts and bites
+Alcal Tablet			100	Used for maintaining healthy bones and teeth and maintain level of vitamin D3
+Azithromycin			167	Used to treat infections of pneumonia, sinus and skin
+Aztor				156	Used to lower cholesterol and reduce the risk of heart disease
+Betadine			129	Used to treat minor wounds and treat mild skin infections
+Betamethasone			136	Used to treat itching, swollen and irritated skin
+Betnesol-N drops		131	Used to treat inflammation of the eye, ear or nose
+Bifilac Dry Syrup		123	Used to treat and prevent Diarrhea 
+Ciprofloxacin 			178	Used to treat of prevent certain infections caused by bacteria such as gonorrhea, pneumonia and typhoid fever
+Clindacin gel			160	Used to treat Acne
+Cough Syrup 			176	Used to relieve coughs caused by the common cold, bronchitis and other breathing illnesses
+Cystone	Tablet			167	Beneficial in prevention of urinary tract infections	
+Doxycycline 			145	Used to treat different bacterial Infections such as acne, gonorrhea and others
+Dupixent			178	Used to treat people aged 6 years and older with moderate-to-severe atopic dramatitis 
+Edaravone			154	Used to treat condition in which muscle shrinks and weakens
+Famciclovir			187	Used to treat shingles, herpes zoster
+Glycomet			134	Used to treat menstruation related disorder
+Hydrochorothiazide		178	Used to treat edema caused by various medical problems including heart, kidney and liver disease
+Hydrocortisone cream 		189	Used to treat inflammation of skin, insect stings and eczema				
+Kevzara				156	Used alone or with other medication to treat moderate to severe rheumatoid arthritis 
+Levocetirizine			134	Used to relieve runny nose, sneezing and redness and tearing of the eyes acused by high fever and seasonal allergies 
+Lisinopril			134	Used to treat high blood pressure and heart failure 
+Meftal				123	Used to prevent mild to moderate abdominal or menstrual pain
+Montelukast			164	Used to prevent wheezing difficulty breathing, chest tightness and coughing caused by asthma 
+Mupirocin Tropical Cream	175	Used to treat Impetego
+Onpattro			132	Used for the treatment of polyneuropathy of hereditary transthyretin-mediated Amyloidosis in adults
+Ozempic				143	Used along with diet and exercise to improve blood sugar in adults with type 2 diabetes 
+Panpoprazole			154	Used for heartburn, acid reflux and gastro-oesophageal reflux disease
+Paracetamol			168	Use as a painkiller
+Polysporin			187	Help to prevent or treat mild skin infection	
+Prednisone			176	Used to treat conditions such as blood disorders severe allergies, cancer, skin diseases, eye problems and immune system disorders
+Qualaquin			220	Used to treat malaria
+Rabeprazole			126	Used to treat heartburn, acid reflux and gastro-oesophageal reflux
+Septin				197	Used to treat diabetes
+Sitagliptin			186	Used with a proper diet and exercise program to control high blood sugar
+Tacidine			198	Used to treat gastric ulcer and duodenal ulcer
+Valaciclovir			229	Used to treat herpes zoster, shingles and genital herpes
+Warfarin			121	Used to treat people who have had previous blood clot
+Xanax 				320	Used to treat anxiety disorders including panic disorder
+Zerodol-SP Tablet		176	Used to relieve pain and swelling in conditions like muscle pain, joint pain and postoperative	pain
